@@ -1,0 +1,1 @@
+Designed and implemented a smart door unlocking system using FSM-based logic in Verilog. The system securely unlocks only when the correct input sequence is detected. ✅ Integrated Intellectual Property (IP) cores to enhance functionality and efficiency. A perfect blend of digital logic, embedded systems, and smart home security! 🏠💡.
